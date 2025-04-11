@@ -7,7 +7,8 @@ Este informe detalla el estado y la proyección del mercado relacionado con los 
 
 ## 1. Tamaño del mercado y crecimiento esperado
 
-Software de generación de modelos 3D: El mercado global de software para modelado 3D (creación de modelos tridimensionales digitales) se estima en unos 3.1 mil millones USD en 2023 y podría alcanzar 8.44 mil millones USD en 2030, con una tasa de crecimiento anual compuesta (CAGR) alrededor del 15.3%​
+Software de generación de modelos 3D: El mercado global de software para modelado 3D (creación de modelos tridimensionales digitales) se estima en unos 3.1 mil millones USD en 2023 y podría alcanzar 8.44 mil millones USD en 2030, con una tasa de crecimiento anual compuesta (CAGR) alrededor del 15.3%​ [​
+stratviewresearch.com]
 (https://www.stratviewresearch.com/2683/3d-modeling-market.html?srsltid=AfmBOop1xgd3LpgXKNHULXoqLa5YEvUaY4A9b8CK8HGvDYegHS0xwAER#:~:text=The%C2%A03D%20modeling%20market%20was%20estimated,44%C2%A0billion%20in%202030). Este segmento incluye herramientas de diseño 3D utilizadas en sectores como la arquitectura, ingeniería, manufactura, entretenimiento y videojuegos. Impulsores de este crecimiento son la creciente demanda de contenido 3D (animación, simulaciones), avances en sensores 3D y la adopción de AR/VR para visualización, que requieren más modelos espaciales​
 grandviewresearch.com
 ​
