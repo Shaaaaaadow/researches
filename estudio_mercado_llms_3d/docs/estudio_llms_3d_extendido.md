@@ -7,6 +7,55 @@ Este informe detalla el estado y la proyección del mercado relacionado con los 
 
 ## 1. Tamaño del mercado y crecimiento esperado
 
+Software de generación de modelos 3D: El mercado global de software para modelado 3D (creación de modelos tridimensionales digitales) se estima en unos 3.1 mil millones USD en 2023 y podría alcanzar 8.44 mil millones USD en 2030, con una tasa de crecimiento anual compuesta (CAGR) alrededor del 15.3%​
+(https://www.stratviewresearch.com/2683/3d-modeling-market.html?srsltid=AfmBOop1xgd3LpgXKNHULXoqLa5YEvUaY4A9b8CK8HGvDYegHS0xwAER#:~:text=The%C2%A03D%20modeling%20market%20was%20estimated,44%C2%A0billion%20in%202030). Este segmento incluye herramientas de diseño 3D utilizadas en sectores como la arquitectura, ingeniería, manufactura, entretenimiento y videojuegos. Impulsores de este crecimiento son la creciente demanda de contenido 3D (animación, simulaciones), avances en sensores 3D y la adopción de AR/VR para visualización, que requieren más modelos espaciales​
+grandviewresearch.com
+​
+grandviewresearch.com
+. Por ejemplo, el mercado global de mapeo y modelado 3D (incluyendo aplicaciones GIS) alcanzó 7.12 mil millones USD en 2024 y proyecta un CAGR de ~16% hasta 2030​
+grandviewresearch.com
+. Estas cifras reflejan un fuerte crecimiento en la creación de entornos 3D digitales. Software CAD (Diseño Asistido por Computadora): El mercado mundial de software CAD –especialmente CAD 3D para ingeniería– es sustancial y maduro. En 2022 se valoró en torno a 10.57 mil millones USD, proyectándose llegar a 16.99 mil millones USD en 2030 (CAGR ~6.2% 2023-2030)​
+fortunebusinessinsights.com
+. Esto incluye tanto soluciones CAD tradicionales on-premise como las de CAD en la nube (Cloud CAD). Aunque el crecimiento porcentual es más modesto que en nichos emergentes, sigue siendo significativo dado el tamaño de base. Se prevé un impulso mayor en la modalidad CAD en la nube, que desde la pandemia ha ganado cuota rápidamente​
+fortunebusinessinsights.com
+​
+fortunebusinessinsights.com
+. De hecho, en 2022 el segmento cloud ya dominó la cuota de mercado de CAD 3D y se espera que continúe creciendo con fuerza en los próximos años, habiéndose duplicado el mercado de soluciones CAD basadas en nube en los últimos tres años​
+fortunebusinessinsights.com
+. La transición de licencias perpetuas a modelos SaaS está consolidando este crecimiento. Por ejemplo, se proyecta que más de la mitad del gasto empresarial en software se destine a aplicaciones SaaS en los próximos años​
+fortunebusinessinsights.com
+. En contrapartida, el CAD on-premise continuará siendo utilizado (especialmente por razones de seguridad o especificidades técnicas), pero con crecimiento más lento. IA en manufactura digital y diseño: La aplicación de Inteligencia Artificial en el ámbito industrial está creciendo explosivamente. El mercado global de IA en manufactura (que abarca desde mantenimiento predictivo hasta diseño generativo) era relativamente pequeño hace pocos años, pero varias estimaciones señalan un salto enorme hacia 2030. Por ejemplo, se calcula que pasará de unos 2.24 mil millones USD en 2022 a más de 61.94 mil millones USD en 2030, lo que implica una CAGR extraordinaria de ~51%​
+vantagemarketresearch.com
+. Incluso con metodologías conservadoras, las proyecciones coinciden en un tamaño de decenas de miles de millones de dólares a finales de la década​
+marketsandmarkets.com
+. Este crecimiento está alimentado por la adopción de IA en procesos de fabricación, optimización de líneas, control de calidad, gemelos digitales, etc. En el área específica de diseño asistido por IA, destaca el subsegmento de diseño generativo: aunque parte de una base modesta (unos 217.5 millones USD en 2022), se espera que alcance alrededor de 926 millones USD en 2030 a un CAGR de 20.1%​
+fortunebusinessinsights.com
+​
+fortunebusinessinsights.com
+. El diseño generativo utiliza algoritmos (incluyendo IA/ML) para generar automáticamente diseños óptimos a partir de restricciones dadas, y su adopción va en aumento especialmente ligado a la impresión 3D (su principal aplicación)​
+fortunebusinessinsights.com
+​
+fortunebusinessinsights.com
+. Las tecnologías LLM aplicadas al diseño formarían parte de este ámbito: son aún emergentes, pero se espera que contribuyan al crecimiento del mercado de soluciones de diseño autónomo. LLMs aplicados a diseño y manufactura: Actualmente, las soluciones específicamente basadas en Large Language Models (LLM) para generación de modelos 3D son incipientes, por lo que no hay un mercado cuantificado separado aún. Más bien, los LLM se están incorporando como nueva capacidad dentro del mercado de IA en diseño. Por ejemplo, grandes proveedores de CAD/CAE ya experimentan con LLMs para permitir interfaces conversacionales en el software de ingeniería (p.ej. prototipos de Siemens “Hi Simcenter” que permiten crear modelos simulados mediante lenguaje natural)​
+blogs.sw.siemens.com
+​
+blogs.sw.siemens.com
+. Podemos considerar que la “parte LLM” está incluida en la categoría de herramientas de diseño generativo o asistencia inteligente. Dado el enorme interés generado tras 2023 en IA generativa, se prevé un fuerte crecimiento en su adopción industrial en los próximos años. En general, el mercado de IA generativa empresarial se ha multiplicado por 6 en el último año, pasando de 2.3 mil MUSD en 2023 a 13.8 mil MUSD en 2024 solo en gasto corporativo, reflejando que las empresas están pasando de pilotos a implementación real​
+menlovc.com
+. Una porción de esa inversión se dirige a aplicaciones de ingeniería y diseño, aunque por ahora la mayoría está en etapas de innovación temprana (un 60% del gasto en IA generativa en 2024 proviene aún de presupuestos de innovación más que operativos)​
+menlovc.com
+. En resumen, los LLM aplicados al diseño representan un mercado emergente dentro del gran crecimiento de la IA en manufactura, con gran potencial pero cifras todavía pequeñas en comparación a los segmentos tradicionales. 
+
+Figura 1: Tamaño de mercado proyectado a nivel global para 2030 en distintas categorías tecnológicas. Los softwares CAD/3D suman decenas de miles de millones, IA en manufactura se proyecta muy superior, mientras que el diseño generativo (LLM aplicado) aún es un nicho pequeño pero de rápido crecimiento​
+fortunebusinessinsights.com
+​
+stratviewresearch.com
+​
+vantagemarketresearch.com
+​
+fortunebusinessinsights.com
+.
+
 ### Modelado 3D
 - Valor 2023: $3.1B
 - Proyección 2030: $8.44B
