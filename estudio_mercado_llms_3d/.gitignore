@@ -1,0 +1,7 @@
+# Archivos comunes para proyectos de documentación
+*.log
+*.tmp
+*.bak
+.DS_Store
+__pycache__/
+.env
